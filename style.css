@@ -612,13 +612,37 @@ section {
 }
 
 /* Footer Styles */
+
 footer {
-    background-color: #f8f8f8;
-    padding: 10px;
+    background-color: #f9f9f9; /* Optional: Set a contrasting background */
+    color: #000; /* Set text color to black */
+    padding: 20px;
     text-align: center;
-    font-size: 14px;
-    color: #555;
 }
+
+footer h3 {
+    color: #000; /* Black font for headings */
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+footer p {
+    color: #000; /* Black font for paragraph text */
+    font-size: 1em;
+    line-height: 1.5;
+}
+
+footer .socials li a {
+    color: #000; /* Black font for social icons */
+    text-decoration: none;
+    font-size: 1.2em;
+    margin: 0 10px;
+}
+
+footer .socials li a:hover {
+    color: #555; /* Dark gray on hover */
+}
+
 
 /* Responsive Design */
 @media screen and (max-width: 1024px) {
@@ -690,3 +714,56 @@ footer {
     }
 }
 
+#feedback {
+    margin: 50px auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    max-width: 500px;
+}
+
+#feedback h2 {
+    font-size: 1.8rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+#feedback p {
+    font-size: 1rem;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+#feedback input, #feedback textarea {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+#feedback textarea {
+    height: 100px;
+}
+
+#feedback .btn {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+#feedback .btn:hover {
+    background-color: #45a049;
+}
+
+#feedback-response {
+    margin-top: 20px;
+    font-size: 1.2rem;
+    color: #4CAF50;
+}
