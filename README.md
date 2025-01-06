@@ -11,7 +11,7 @@ Thenga is a user-friendly e-commerce website showcasing a variety of handcrafted
   - All Products
 - **Shopping Cart**: Add products, update quantities, and remove items dynamically.
 - **Responsive Design**: Compatible with all devices (mobile, tablet, desktop).
-- **Dynamic Functionality**: Utilizes JavaScript and Local Storage to provide a seamless user experience.
+- **Feedback Section**: Utilizes JavaScript to provide a seamless user experience to give feedbacks
 
 ---
 
@@ -37,7 +37,7 @@ Thenga is a user-friendly e-commerce website showcasing a variety of handcrafted
 - **HTML**: Structure of the website.
 - **CSS**: Styling and responsive design.
 - **JavaScript**: Dynamic interactions and live cart functionality.
-- **Local Storage**: Persistence of cart data between sessions.
+
 
 ---
 
