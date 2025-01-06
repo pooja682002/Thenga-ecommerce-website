@@ -1,4 +1,6 @@
-# Thenga - Coconut Shell Products Website
+# THENGA - Coconut Shell Products Website
+
+https://pooja682002.github.io/Thenga-ecommerce-website/
 
 Thenga is a user-friendly e-commerce website showcasing a variety of handcrafted coconut shell decor items. This project includes a shopping cart feature to enhance the user experience, allowing live updates and item management. 
 
